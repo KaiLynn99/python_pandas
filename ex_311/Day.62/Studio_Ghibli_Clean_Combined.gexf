@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2">
+  <graph mode="static" defaultedgetype="undirected">
+    <attributes class="node">
+      <attribute id="0" title="Category" type="string"/>
+      <attribute id="1" title="ArticleCount" type="integer"/>
+      <attribute id="2" title="PrimaryWork" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="고양이의 보은" label="고양이의 보은">
+        <attvalues>
+          <attvalue for="0" value="작품"/>
+          <attvalue for="1" value="10"/>
+          <attvalue for="2" value="고양이의 보은"/>
+        </attvalues>
+      </node>
+      <node id="공연" label="공연">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="50"/>
+          <attvalue for="2" value="센과 치히로의 행방불명"/>
+        </attvalues>
+      </node>
+      <node id="마녀 배달부 키키" label="마녀 배달부 키키">
+        <attvalues>
+          <attvalue for="0" value="작품"/>
+          <attvalue for="1" value="11"/>
+          <attvalue for="2" value="마녀 배달부 키키"/>
+        </attvalues>
+      </node>
+      <node id="모노노케 히메" label="모노노케 히메">
+        <attvalues>
+          <attvalue for="0" value="작품"/>
+          <attvalue for="1" value="21"/>
+          <attvalue for="2" value="모노노케 히메"/>
+        </attvalues>
+      </node>
+      <node id="모리타" label="모리타">
+        <attvalues>
+          <attvalue for="0" value="인물"/>
+          <attvalue for="1" value="8"/>
+          <attvalue for="2" value="고양이의 보은"/>
+        </attvalues>
+      </node>
+      <node id="목소리" label="목소리">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="14"/>
+          <attvalue for="2" value="고양이의 보은"/>
+        </attvalues>
+      </node>
+      <node id="미야자키 하야오" label="미야자키 하야오">
+        <attvalues>
+          <attvalue for="0" value="인물"/>
+          <attvalue for="1" value="51"/>
+          <attvalue for="2" value="센과 치히로의 행방불명"/>
+        </attvalues>
+      </node>
+      <node id="바다" label="바다">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="8"/>
+          <attvalue for="2" value="벼랑 위의 포뇨"/>
+        </attvalues>
+      </node>
+      <node id="바람" label="바람">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="9"/>
+          <attvalue for="2" value="이웃집 토토로"/>
+        </attvalues>
+      </node>
+      <node id="바람계곡의 나우시카" label="바람계곡의 나우시카">
+        <attvalues>
+          <attvalue for="0" value="작품"/>
+          <attvalue for="1" value="12"/>
+          <attvalue for="2" value="바람계곡의 나우시카"/>
+        </attvalues>
+      </node>
+      <node id="배경" label="배경">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="16"/>
+          <attvalue for="2" value="이웃집 토토로"/>
+        </attvalues>
+      </node>
+      <node id="벼랑 위의 포뇨" label="벼랑 위의 포뇨">
+        <attvalues>
+          <attvalue for="0" value="작품"/>
+          <attvalue for="1" value="4"/>
+          <attvalue for="2" value="벼랑 위의 포뇨"/>
+        </attvalues>
+      </node>
+      <node id="센과 치히로의 행방불명" label="센과 치히로의 행방불명">
+        <attvalues>
+          <attvalue for="0" value="작품"/>
+          <attvalue for="1" value="51"/>
+          <attvalue for="2" value="센과 치히로의 행방불명"/>
+        </attvalues>
+      </node>
+      <node id="소녀" label="소녀">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="23"/>
+          <attvalue for="2" value="천공의 성 라퓨타"/>
+        </attvalues>
+      </node>
+      <node id="소년" label="소년">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="13"/>
+          <attvalue for="2" value="천공의 성 라퓨타"/>
+        </attvalues>
+      </node>
+      <node id="스튜디오 지브리" label="스튜디오 지브리">
+        <attvalues>
+          <attvalue for="0" value="스튜디오"/>
+          <attvalue for="1" value="51"/>
+          <attvalue for="2" value="센과 치히로의 행방불명"/>
+        </attvalues>
+      </node>
+      <node id="신비" label="신비">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="20"/>
+          <attvalue for="2" value="천공의 성 라퓨타"/>
+        </attvalues>
+      </node>
+      <node id="연주" label="연주">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="24"/>
+          <attvalue for="2" value="마녀 배달부 키키"/>
+        </attvalues>
+      </node>
+      <node id="예술의전당" label="예술의전당">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="32"/>
+          <attvalue for="2" value="센과 치히로의 행방불명"/>
+        </attvalues>
+      </node>
+      <node id="오페라" label="오페라">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="32"/>
+          <attvalue for="2" value="센과 치히로의 행방불명"/>
+        </attvalues>
+      </node>
+      <node id="원령공주" label="원령공주">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="10"/>
+          <attvalue for="2" value="모노노케 히메"/>
+        </attvalues>
+      </node>
+      <node id="음악" label="음악">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="38"/>
+          <attvalue for="2" value="공통"/>
+        </attvalues>
+      </node>
+      <node id="이웃집 토토로" label="이웃집 토토로">
+        <attvalues>
+          <attvalue for="0" value="작품"/>
+          <attvalue for="1" value="20"/>
+          <attvalue for="2" value="이웃집 토토로"/>
+        </attvalues>
+      </node>
+      <node id="인간" label="인간">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="17"/>
+          <attvalue for="2" value="모노노케 히메"/>
+        </attvalues>
+      </node>
+      <node id="자연" label="자연">
+        <attvalues>
+          <attvalue for="0" value="연관키워드"/>
+          <attvalue for="1" value="17"/>
+          <attvalue for="2" value="모노노케 히메"/>
+        </attvalues>
+      </node>
+      <node id="천공의 성 라퓨타" label="천공의 성 라퓨타">
+        <attvalues>
+          <attvalue for="0" value="작품"/>
+          <attvalue for="1" value="18"/>
+          <attvalue for="2" value="천공의 성 라퓨타"/>
+        </attvalues>
+      </node>
+      <node id="하울의 움직이는 성" label="하울의 움직이는 성">
+        <attvalues>
+          <attvalue for="0" value="작품"/>
+          <attvalue for="1" value="8"/>
+          <attvalue for="2" value="하울의 움직이는 성"/>
+        </attvalues>
+      </node>
+      <node id="히로유키" label="히로유키">
+        <attvalues>
+          <attvalue for="0" value="인물"/>
+          <attvalue for="1" value="9"/>
+          <attvalue for="2" value="고양이의 보은"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="공연" target="센과 치히로의 행방불명" weight="38"/>
+      <edge id="1" source="센과 치히로의 행방불명" target="스튜디오 지브리" weight="37"/>
+      <edge id="2" source="미야자키 하야오" target="센과 치히로의 행방불명" weight="32"/>
+      <edge id="3" source="센과 치히로의 행방불명" target="예술의전당" weight="32"/>
+      <edge id="4" source="센과 치히로의 행방불명" target="오페라" weight="31"/>
+      <edge id="5" source="모노노케 히메" target="미야자키 하야오" weight="16"/>
+      <edge id="6" source="미야자키 하야오" target="천공의 성 라퓨타" weight="15"/>
+      <edge id="7" source="센과 치히로의 행방불명" target="이웃집 토토로" weight="14"/>
+      <edge id="8" source="스튜디오 지브리" target="이웃집 토토로" weight="14"/>
+      <edge id="9" source="모노노케 히메" target="스튜디오 지브리" weight="13"/>
+      <edge id="10" source="미야자키 하야오" target="이웃집 토토로" weight="13"/>
+      <edge id="11" source="스튜디오 지브리" target="천공의 성 라퓨타" weight="13"/>
+      <edge id="12" source="모노노케 히메" target="자연" weight="12"/>
+      <edge id="13" source="미야자키 하야오" target="바람계곡의 나우시카" weight="12"/>
+      <edge id="14" source="바람계곡의 나우시카" target="스튜디오 지브리" weight="12"/>
+      <edge id="15" source="모노노케 히메" target="인간" weight="11"/>
+      <edge id="16" source="마녀 배달부 키키" target="스튜디오 지브리" weight="10"/>
+      <edge id="17" source="모노노케 히메" target="원령공주" weight="10"/>
+      <edge id="18" source="신비" target="천공의 성 라퓨타" weight="10"/>
+      <edge id="19" source="공연" target="이웃집 토토로" weight="9"/>
+      <edge id="20" source="마녀 배달부 키키" target="센과 치히로의 행방불명" weight="9"/>
+      <edge id="21" source="소녀" target="천공의 성 라퓨타" weight="9"/>
+      <edge id="22" source="소년" target="천공의 성 라퓨타" weight="9"/>
+      <edge id="23" source="마녀 배달부 키키" target="미야자키 하야오" weight="8"/>
+      <edge id="24" source="마녀 배달부 키키" target="이웃집 토토로" weight="8"/>
+      <edge id="25" source="모노노케 히메" target="바람계곡의 나우시카" weight="8"/>
+      <edge id="26" source="고양이의 보은" target="공연" weight="7"/>
+      <edge id="27" source="모노노케 히메" target="센과 치히로의 행방불명" weight="7"/>
+      <edge id="28" source="바람" target="이웃집 토토로" weight="7"/>
+      <edge id="29" source="바람계곡의 나우시카" target="천공의 성 라퓨타" weight="7"/>
+      <edge id="30" source="배경" target="이웃집 토토로" weight="7"/>
+      <edge id="31" source="센과 치히로의 행방불명" target="하울의 움직이는 성" weight="7"/>
+      <edge id="32" source="스튜디오 지브리" target="하울의 움직이는 성" weight="7"/>
+      <edge id="33" source="이웃집 토토로" target="하울의 움직이는 성" weight="7"/>
+      <edge id="34" source="고양이의 보은" target="모리타" weight="6"/>
+      <edge id="35" source="고양이의 보은" target="음악" weight="6"/>
+      <edge id="36" source="고양이의 보은" target="히로유키" weight="6"/>
+      <edge id="37" source="마녀 배달부 키키" target="천공의 성 라퓨타" weight="6"/>
+      <edge id="38" source="마녀 배달부 키키" target="하울의 움직이는 성" weight="6"/>
+      <edge id="39" source="모노노케 히메" target="이웃집 토토로" weight="6"/>
+      <edge id="40" source="모노노케 히메" target="천공의 성 라퓨타" weight="6"/>
+      <edge id="41" source="미야자키 하야오" target="하울의 움직이는 성" weight="6"/>
+      <edge id="42" source="바람계곡의 나우시카" target="센과 치히로의 행방불명" weight="6"/>
+      <edge id="43" source="바람계곡의 나우시카" target="신비" weight="6"/>
+      <edge id="44" source="바람계곡의 나우시카" target="음악" weight="6"/>
+      <edge id="45" source="바람계곡의 나우시카" target="인간" weight="6"/>
+      <edge id="46" source="센과 치히로의 행방불명" target="천공의 성 라퓨타" weight="6"/>
+      <edge id="47" source="이웃집 토토로" target="천공의 성 라퓨타" weight="6"/>
+      <edge id="48" source="공연" target="마녀 배달부 키키" weight="5"/>
+      <edge id="49" source="마녀 배달부 키키" target="모노노케 히메" weight="5"/>
+      <edge id="50" source="마녀 배달부 키키" target="바람" weight="5"/>
+      <edge id="51" source="마녀 배달부 키키" target="바람계곡의 나우시카" weight="5"/>
+      <edge id="52" source="마녀 배달부 키키" target="연주" weight="5"/>
+      <edge id="53" source="바람계곡의 나우시카" target="이웃집 토토로" weight="5"/>
+      <edge id="54" source="천공의 성 라퓨타" target="하울의 움직이는 성" weight="5"/>
+      <edge id="55" source="공연" target="하울의 움직이는 성" weight="4"/>
+      <edge id="56" source="바람" target="하울의 움직이는 성" weight="4"/>
+      <edge id="57" source="음악" target="하울의 움직이는 성" weight="4"/>
+      <edge id="58" source="마녀 배달부 키키" target="벼랑 위의 포뇨" weight="3"/>
+      <edge id="59" source="모노노케 히메" target="하울의 움직이는 성" weight="3"/>
+      <edge id="60" source="미야자키 하야오" target="벼랑 위의 포뇨" weight="3"/>
+      <edge id="61" source="바다" target="벼랑 위의 포뇨" weight="3"/>
+      <edge id="62" source="바람계곡의 나우시카" target="하울의 움직이는 성" weight="3"/>
+      <edge id="63" source="벼랑 위의 포뇨" target="센과 치히로의 행방불명" weight="3"/>
+      <edge id="64" source="벼랑 위의 포뇨" target="연주" weight="3"/>
+      <edge id="65" source="벼랑 위의 포뇨" target="이웃집 토토로" weight="3"/>
+      <edge id="66" source="벼랑 위의 포뇨" target="천공의 성 라퓨타" weight="3"/>
+      <edge id="67" source="벼랑 위의 포뇨" target="하울의 움직이는 성" weight="3"/>
+      <edge id="68" source="고양이의 보은" target="마녀 배달부 키키" weight="2"/>
+      <edge id="69" source="고양이의 보은" target="목소리" weight="2"/>
+      <edge id="70" source="고양이의 보은" target="센과 치히로의 행방불명" weight="2"/>
+      <edge id="71" source="고양이의 보은" target="이웃집 토토로" weight="2"/>
+      <edge id="72" source="고양이의 보은" target="천공의 성 라퓨타" weight="2"/>
+      <edge id="73" source="고양이의 보은" target="하울의 움직이는 성" weight="2"/>
+      <edge id="74" source="공연" target="벼랑 위의 포뇨" weight="2"/>
+      <edge id="75" source="모노노케 히메" target="벼랑 위의 포뇨" weight="2"/>
+      <edge id="76" source="바람" target="벼랑 위의 포뇨" weight="2"/>
+    </edges>
+  </graph>
+</gexf>
